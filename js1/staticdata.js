@@ -12,7 +12,7 @@ var starter ={
 	address:myself.address,
 	phone:myself.phone,
 	email:myself.email,
-	contactMapEmbadded :"https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d58382.32149806097!2d90.4132185696959!3d23.85785867958766!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1472724148659",
+	contactMapEmbadded :"https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d58382.32149806097!2d90.4132185696959!3d23.85785867958766!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1472724148659" ,
 	
 }
 var header =[
