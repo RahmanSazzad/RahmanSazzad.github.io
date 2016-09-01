@@ -12,7 +12,7 @@ var starter ={
 	address:myself.address,
 	phone:myself.phone,
 	email:myself.email,
-	contactMapEmbadded :"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.974587848372!2d90.36972241438836!3d23.748285594775275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755bf4dadf0b1bf%3A0x611205480aae2560!2s79+Rd+No.+12A%2C+Dhaka!5e0!3m2!1sen!2sbd!4v1472548674769",
+	contactMapEmbadded :"https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d58382.32149806097!2d90.4132185696959!3d23.85785867958766!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1472724148659",
 	
 }
 var header =[
