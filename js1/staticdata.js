@@ -123,37 +123,37 @@ var education =[
 ];
 var skillsLeft =[
 	{
-		txt:"C , C++",
+		txt:"Adobe Illustrator",
+		percentage :"98"
+	},
+	{
+		txt:"Adobe Photoshop",
+		percentage :"98"
+	},
+	{
+		txt:"Adobe After Effect",
 		percentage :"80"
 	},
 	{
-		txt:"JAVA",
-		percentage :"90"
-	},
-	{
-		txt:"XML & JSON",
-		percentage :"80"
-	},
-	{
-		txt:"Customization of Views",
+		txt:"Project Management",
 		percentage :"75"
 	}
 ];
 var skillsRight=[
 	{
-		txt:"Services and Receivers",
+		txt:"Branding",
 		percentage :"90"
 	},
 	{
-		txt:"MVC, MVP",
-		percentage :"60"
+		txt:"Logo Design",
+		percentage :"80"
 	},
 	{
-		txt:"UX DEVELOPER",
-		percentage :"70"
+		txt:"UI UX Design",
+		percentage :"90"
 	},
 	{
-		txt:"Third party libraries and API",
+		txt:"Motion Graphic",
 		percentage :"80"
 	}
 ];
