@@ -63,7 +63,7 @@ body a:hover{
 .header-right h2 {
     font-size: 1.2em;
     color: #000;
-    background: #F7E612;
+    background: #202020;
     display: inline-block;
     padding: .5em 1.5em;
     position: relative;
@@ -77,17 +77,17 @@ body a:hover{
     left: 12px;
     border-style: solid;
     border-width: 10px 10px 0 10px;
-    border-color: #F7E612 transparent transparent transparent;
+    border-color: #202020 transparent transparent transparent;
 }
 .header-right h6 {
     font-size: 1em;
-    color: #C7C7C7;
+    color: #fff;
     margin-top: 0.8em;
     letter-spacing: 6px;
 }
 ul.address {
     margin-top: 2em;
-    border-top: 1px solid #AFAFAF;
+    border-top: 1px solid #fff;
     padding-top: 0.5em;
 }
 ul.address li {
@@ -114,7 +114,7 @@ ul.address li ul.address-text li a:hover{
 /*--top-nav--*/
 
 .top-nav {
-    background: #008B8B;
+    background: #FC1D1D;
     position: fixed;
     width: 100%;
     z-index: 1;
@@ -138,7 +138,7 @@ ul.nav.navbar li a {
     font-family: 'Overlock', cursive;
 }
 ul.nav.navbar li a:hover,ul.nav.navbar li a.active,ul.nav.navbar li a:focus{
-    color: #008B8B;
+    color: #FC1D1D;
     background: #fff;
 	-webkit-transform: scale(0.8);
 	-moz-transform: scale(0.8);
@@ -154,7 +154,7 @@ ul.nav.navbar li a:hover,ul.nav.navbar li a.active,ul.nav.navbar li a:focus{
 h3.title {
     font-size: 4em;
     text-align: center;
-    color: #008B8B;
+    color: #FC1D1D;
     border-bottom: 4px double rgba(247, 197, 106, 0.35);
     padding-bottom: 0.2em;
 	margin-bottom: 1em;
@@ -168,13 +168,13 @@ p {
     padding-left: 5em;
 }
 .about-right ul {
-    border: 3px double #008B8B;
+    border: 3px double #FC1D1D;
     padding: 1em 2em;
 }
 .about-right h5 {
     font-size: 2em;
     text-align: center;
-    color: #008B8B;
+    color: #FC1D1D;
 }
 .about-right ul li {
     display: block;
@@ -201,7 +201,7 @@ p {
 }
 .work-info h4 {
     font-size: 1.2em;
-    background: #008B8B;
+    background: #FC1D1D;
     display: inline-block;
     padding: .6em 1.2em;
     color: #fff;
@@ -217,11 +217,11 @@ p {
     right: -14px;
     border-style: solid;
     border-width: 10px 0 10px 16px;
-    border-color: transparent transparent transparent #008B8B;
+    border-color: transparent transparent transparent #FC1D1D;
 }
 .work-info h5 {
     font-size: 1.3em;
-    color: #008B8B;
+    color: #FC1D1D;
     margin-bottom: .5em;
     border: 1px solid #F7E612;
     display: inline-block;
@@ -230,7 +230,7 @@ p {
 .work-info h5 span.glyphicon {
     font-size: 0.9em;
     color: #fff;
-    background: #008B8B;
+    background: #FC1D1D;
     padding: 1em;
     -webkit-border-radius: 70%;
     -moz-border-radius: 70%;
