@@ -1,7 +1,7 @@
 /*
 to change the colors just replace all the colors
     color-primary: #536D79
-    color-accent:#F7E612
+    color-accent:#DFDFDF
       
     color-progress :#2F2C06
     color-progress_back :#766E04
@@ -223,7 +223,7 @@ p {
     font-size: 1.3em;
     color: #536D79;
     margin-bottom: .5em;
-    border: 1px solid #F7E612;
+    border: 1px solid #DFDFDF;
     display: inline-block;
     padding: 0 1.2em;
 }
@@ -270,7 +270,7 @@ p {
     margin-top: 0.8em;
 }
 .work-info:hover h5 span.glyphicon {
-    color: #F7E612;
+    color: #DFDFDF;
 	-webkit-transform: scale(1.2);
 	-moz-transform: scale(1.2);
     transform: scale(1.2);
@@ -312,7 +312,7 @@ p {
 /*--SAP--*/
 ul.resp-tabs-list {  
 /*-- w3layouts --*/
-background: #F7E612;
+background: #DFDFDF;
 }
 .sap_tabs{
 	clear:both;
@@ -540,7 +540,7 @@ h2.resp-accordion {
     color: #fff;
 }
 .contact p a:hover{
-    color: #F7E612;
+    color: #DFDFDF;
 }
 .address-left:after {
     content: '';
@@ -626,7 +626,7 @@ h2.resp-accordion {
 	font-size: 1.1em;
 }
 .footer p a{
-    color: #F7E612;
+    color: #DFDFDF;
 }
 .footer p a:hover{
     color: #fff;
@@ -1152,7 +1152,7 @@ h3.title {
     left: 0;
     padding: 20px;
     background: #536D79;
-    color: #F7E612;
+    color: #DFDFDF;
 }
 
 .grid figcaption h1 {
@@ -1169,7 +1169,7 @@ h3.title {
 }
 .grid figcaption span:before {
     content: '';
-    color: #F7E612;
+    color: #DFDFDF;
 }
 
 .grid figcaption a {
@@ -1177,7 +1177,7 @@ h3.title {
     padding: 5px 10px;
     border-radius: 2px;
     display: inline-block;
-    background: #F7E612;
+    background: #DFDFDF;
     color: #fff;
 }
 
