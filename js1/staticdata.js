@@ -1,12 +1,12 @@
 var myself ={
-	name:"Mashuk Sadman",
-	profession:"My Profession",
-	address:"My address",
-	phone:"+999999999",
-	email:"me@mail.com"
+	name:"Sazzad Rahman",
+	profession:"Graphic Designer UI/UX",
+	address:"Holding#40 Word#48 Islampur, Gazipur City Corporation",
+	phone:"+88-0167-374-5582",
+	email:"sazzadrahman@hotmail.com"
 }
 var starter ={
-	init :"Yo",
+	init :"hi",
 	intro:"I'm "+myself.name,
 	status:myself.profession,
 	address:myself.address,
@@ -23,7 +23,7 @@ var header =[
 	},
 	{
 		title:"ADDRESS",
-		text:starter.address,
+		text:"Holding#40 Word#48 Islampur, Gazipur City Corporation",
 		link:""
 	},
 	{
@@ -37,9 +37,9 @@ var header =[
 		link:"https://halumz.github.io/"
 	},
 	{
-		title:"Github",
-		text:"halumz",
-		link:"https://github.com/halumz"
+		title:"Behance",
+		text:"Sazzad_Rahman",
+		link:"https://www.behance.net/Sazzad_Rahman"
 	}
 ];
 
