@@ -12,7 +12,7 @@ to change the colors just replace all the colors
 body{
 	margin:0;
 	font-family: 'Roboto Condensed', sans-serif;
-	background: #fff;
+	background: #F4F4F4;
 }
 body a{
 	transition: 0.5s all;
@@ -139,7 +139,7 @@ ul.nav.navbar li a {
 }
 ul.nav.navbar li a:hover,ul.nav.navbar li a.active,ul.nav.navbar li a:focus{
     color: #536D79;
-    background: #fff;
+    background: #F4F4F4;
 	-webkit-transform: scale(0.8);
 	-moz-transform: scale(0.8);
     transform: scale(0.8);
@@ -463,7 +463,7 @@ h2.resp-accordion {
 	left: 0;
 	width: 100%;
 	height: 2px;
-	background: #fff;
+	background: #F4F4F4;
 	content: '';
 	-webkit-transition: -webkit-transform 0.35s;
 	-moz-transition: transform 0.35s;
