@@ -17,22 +17,22 @@ var starter ={
 }
 var header =[
 	{
-		title:"PHONE",
+		title:"Phone",
 		text:starter.phone,
 		link:"#header"
 	},
 	{
-		title:"ADDRESS",
+		title:"Address",
 		text:"Holding#40 Word#48 Islampur, Gazipur City Corporation",
 		link:""
 	},
 	{
-		title:"E-MAIL",
+		title:"E-Mail",
 		text:starter.email,
 		link:"mailto:"+starter.email
 	},
 	{
-		title:"WEBSITE",
+		title:"Website",
 		text:"demo website",
 		link:"https://halumz.github.io/"
 	},
