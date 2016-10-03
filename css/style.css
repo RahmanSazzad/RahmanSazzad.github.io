@@ -189,7 +189,7 @@ p {
 /*--//about--*/
 /*--work--*/
 .work {
-    background: 00C752;
+    background: #00C752;
 }
 .work-left {
     text-align: right;
@@ -280,12 +280,12 @@ p {
 /*--//work--*/
 /*--education--*/
 .education .work-info h5 {
-    color: 00C752;
+    color: #00C752;
 }
 /*--//education--*/
 /*--skills--*/
 .skills{
-	background:00C752;
+	background:#00C752;
 }
 .bar-grids {
     padding: 0 4em;
