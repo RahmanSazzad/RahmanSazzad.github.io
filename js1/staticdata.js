@@ -92,19 +92,9 @@ var workExperience =[
 		position:"Assistant Graphic Designer",
 		time :"April 2014-March 2015"
 	},
-	{
-		company:"Company C",
-		details:"I can write a short description here",
-		position:"My post",
-		time :"2012 - 2015"
-	}
+
 ];
 var education =[
-	{
-		xm:"M.Sc. in CSE in 2012",
-		result:"4.00 out of 4.00",
-		institution :"My University Name"
-	},
 	{
 		xm:"BA Hons- Graphic Design & Multimedia",
 		result:"2.98 out of 4.00",
@@ -171,7 +161,7 @@ var portfolioMenu =[
 var portfolios = [
 	[
 		{
-			name:"Project A 1",
+			name:"Candy Key",
 			creator:" creator",
 			desc:"a short description",
 			link:"images/icon1.jpg",
@@ -180,7 +170,7 @@ var portfolios = [
 			btntxt : "Visit Account"
 		},
 		{
-			name:"Project A 2",
+			name:"4k Wallpaper",
 			creator:" creator",
 			desc:"a short description",
 			link:"http://google.com",
@@ -189,7 +179,7 @@ var portfolios = [
 			btntxt : "Visit Account"
 		},
 		{
-			name:"Project A 3",
+			name:"3D Land",
 			creator:" creator",
 			desc:"a short description",
 			link:"images/icon3.jpg",
@@ -198,7 +188,7 @@ var portfolios = [
 			btntxt : "Visit Account"
 		},
 		{
-			name:"Project A 4",
+			name:"CricScore",
 			creator:" creator",
 			desc:"a short description",
 			link:"images/icon4.jpg",
@@ -209,7 +199,7 @@ var portfolios = [
 	],
 	[
 		{
-			name:"Project B 1",
+			name:"Live Wallpaper",
 			creator:" creator",
 			desc:"a short description",
 			link:"images/icon5.jpg",
@@ -218,7 +208,7 @@ var portfolios = [
 			btntxt : "Visit Account"
 		},
 		{
-			name:"Project B 3",
+			name:"Groovy Home",
 			creator:" creator",
 			desc:"a short description",
 			link:"http://google.com",
@@ -227,7 +217,7 @@ var portfolios = [
 			btntxt : "Visit Account"
 		},
 		{
-			name:"Project B 2",
+			name:"Groovy Lock",
 			creator:" creator",
 			desc:"a short description",
 			link:"http://google.com",
@@ -239,7 +229,7 @@ var portfolios = [
 	],
 	[
 		{
-			name:"Project C 1",
+			name:"FITC",
 			creator:" creator",
 			desc:"a short description",
 			link:"images/icon8.jpg",
@@ -248,7 +238,7 @@ var portfolios = [
 			btntxt : "Visit Account"
 		},
 		{
-			name:"Project C 2",
+			name:"Hepatatis B",
 			creator:" creator",
 			desc:"a short description",
 			link:"images/icon9.jpg",
