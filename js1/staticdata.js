@@ -32,9 +32,9 @@ var header =[
 		link:"mailto:"+starter.email
 	},
 	{
-		title:"Website",
-		text:"demo website",
-		link:"https://halumz.github.io/"
+		title:"Twitter",
+		text:"Sazzad Rahman",
+		link:"https://twitter.com/SakibFakir"
 	},
 	{
 		title:"Behance",
