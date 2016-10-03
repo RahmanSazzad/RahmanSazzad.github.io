@@ -189,7 +189,7 @@ p {
 /*--//about--*/
 /*--work--*/
 .work {
-    background: #00C752;
+    background: #AFBDC4;
 }
 .work-left {
     text-align: right;
@@ -285,7 +285,7 @@ p {
 /*--//education--*/
 /*--skills--*/
 .skills{
-	background:#00C752;
+	background:#AFBDC4;
 }
 .bar-grids {
     padding: 0 4em;
@@ -512,7 +512,7 @@ h2.resp-accordion {
 /*--//portfolio--*/
 /*--contact--*/
 .contact{
-	background:#000;
+	background:#AFBDC40;
 }
 .contact-left iframe {
     width: 100%;
