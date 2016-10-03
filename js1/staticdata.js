@@ -81,16 +81,16 @@ var aboutAwards = [
 
 var workExperience =[
 	{
-		company:"Company A",
+		company:"Zert Interactive",
 		details:"I can write a short description here",
-		position:"My post",
-		time :"2016 - Present"
+		position:"Sr. Graphic Designer",
+		time :"June 2015-October 2016"
 	},
 	{
-		company:"Company B",
+		company:"Channel i",
 		details:"I can write a short description here",
-		position:"My post",
-		time :"2015 - 2016"
+		position:"Assistant Graphic Designer",
+		time :"April 2014-March 2015"
 	},
 	{
 		company:"Company C",
@@ -106,19 +106,19 @@ var education =[
 		institution :"My University Name"
 	},
 	{
-		xm:"B.Sc.  in CSE in 2010",
-		result:"4.00 out of 4.00",
-		institution :"My University Name"
+		xm:"BA Hons- Graphic Design & Multimedia",
+		result:"2.98 out of 4.00",
+		institution :"Shanto Mariam University of Creative Technology"
 	},
 	{
-		xm:"Higher Secondary Certificate 2006",
-		result:"5.00 out of 5.00 ",
-		institution :"My School Name"
+		xm:"Higher Secondary Certificate 2009",
+		result:"3.40 out of 5.00 ",
+		institution :"B.A.F Shaheen College Dhaka"
 	},
 	{
-		xm:"Secondary School Certificate 2004",
-		result:"5.00 out of 5.00 ",
-		institution :"My School Name"
+		xm:"Secondary School Certificate 2007",
+		result:"4.25 out of 5.00 ",
+		institution :"Safiuddin Sarkar Academy & College"
 	}
 ];
 var skillsLeft =[
