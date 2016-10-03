@@ -1,6 +1,6 @@
 /*
 to change the colors just replace all the colors
-    color-primary: #FC1D1D
+    color-primary: #536D79
     color-accent:#F7E612
       
     color-progress :#2F2C06
@@ -114,7 +114,7 @@ ul.address li ul.address-text li a:hover{
 /*--top-nav--*/
 
 .top-nav {
-    background: #FC1D1D;
+    background: #536D79;
     position: fixed;
     width: 100%;
     z-index: 1;
@@ -138,7 +138,7 @@ ul.nav.navbar li a {
     font-family: 'Overlock', cursive;
 }
 ul.nav.navbar li a:hover,ul.nav.navbar li a.active,ul.nav.navbar li a:focus{
-    color: #FC1D1D;
+    color: #536D79;
     background: #fff;
 	-webkit-transform: scale(0.8);
 	-moz-transform: scale(0.8);
@@ -154,7 +154,7 @@ ul.nav.navbar li a:hover,ul.nav.navbar li a.active,ul.nav.navbar li a:focus{
 h3.title {
     font-size: 4em;
     text-align: center;
-    color: #FC1D1D;
+    color: #536D79;
     border-bottom: 4px double rgba(247, 197, 106, 0.35);
     padding-bottom: 0.2em;
 	margin-bottom: 1em;
@@ -168,13 +168,13 @@ p {
     padding-left: 5em;
 }
 .about-right ul {
-    border: 3px double #FC1D1D;
+    border: 3px double #536D79;
     padding: 1em 2em;
 }
 .about-right h5 {
     font-size: 2em;
     text-align: center;
-    color: #FC1D1D;
+    color: #536D79;
 }
 .about-right ul li {
     display: block;
@@ -201,7 +201,7 @@ p {
 }
 .work-info h4 {
     font-size: 1.2em;
-    background: #FC1D1D;
+    background: #536D79;
     display: inline-block;
     padding: .6em 1.2em;
     color: #fff;
@@ -217,11 +217,11 @@ p {
     right: -14px;
     border-style: solid;
     border-width: 10px 0 10px 16px;
-    border-color: transparent transparent transparent #FC1D1D;
+    border-color: transparent transparent transparent #536D79;
 }
 .work-info h5 {
     font-size: 1.3em;
-    color: #FC1D1D;
+    color: #536D79;
     margin-bottom: .5em;
     border: 1px solid #F7E612;
     display: inline-block;
@@ -230,7 +230,7 @@ p {
 .work-info h5 span.glyphicon {
     font-size: 0.9em;
     color: #fff;
-    background: #FC1D1D;
+    background: #536D79;
     padding: 1em;
     -webkit-border-radius: 70%;
     -moz-border-radius: 70%;
@@ -347,12 +347,12 @@ background: #F7E612;
 	position:relative;
 }
 .resp-tab-item:hover{
-    color: #FC1D1D;
+    color: #536D79;
 }
 .resp-tab-active,.resp-tab-active:hover{
     text-shadow: none;
     color: #fff;
-    background: #FC1D1D;
+    background: #536D79;
 }
 .resp-tab-active:before {
     width: 0;
@@ -364,7 +364,7 @@ background: #F7E612;
 	/*-- agileits --*/
     border-style: solid;
     border-width: 7px 7px 0 7px;
-    border-color: #FC1D1D transparent transparent transparent;
+    border-color: #536D79 transparent transparent transparent;
 }
 .resp-tabs-container {
 	padding: 0px;
@@ -587,8 +587,8 @@ h2.resp-accordion {
     font-size: 1.1em;
     margin: 1em 0 0 0;
     -webkit-appearance: none;
-    background: #FC1D1D;
-    border: 2px solid #FC1D1D;
+    background: #536D79;
+    border: 2px solid #536D79;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
     transition: 0.5s all;
@@ -597,7 +597,7 @@ h2.resp-accordion {
 }
 .contact-form input[type="submit"]:hover {
     background: none;
-    color: #FC1D1D;
+    color: #536D79;
 }
 ::-webkit-input-placeholder {
 	color:#fff !important;
@@ -1151,7 +1151,7 @@ h3.title {
     top: 0;
     left: 0;
     padding: 20px;
-    background: #FC1D1D;
+    background: #536D79;
     color: #F7E612;
 }
 
