@@ -45,7 +45,11 @@ var header =[
 
 var aboutME = [
 	{
-		txt:"about myself 1",
+		txt:"I am passionate about pushing boundaries to develop cutting edge design and innovative
+concepts. My focus is user centered design and interactive user experiences. I enjoy
+leveraging both my creative and technical skills to deliver world class UI/UX.
+As a Senior UI/UX Designer my professional experience includes UI/UX design, rapid
+prototyping, mockup design, advertising, branding design and front end development.",
 	},
 	{
 		txt:"about myself 2",
