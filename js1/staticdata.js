@@ -49,16 +49,8 @@ var aboutME = [
 	},
 	{
 		txt:"As a Senior UI/UX Designer my professional experience includes UI/UX design, rapid prototyping, mockup design, advertising, branding design and front end development.",
-	},
-	{
-		txt:"about myself 3",
-	},
-	{
-		txt:"about myself 4",
-	},
-	{
-		txt:"about myself 5",
 	}
+	
 ];
 var aboutAwards = [
 	{
