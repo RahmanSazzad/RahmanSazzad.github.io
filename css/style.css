@@ -3,8 +3,8 @@ to change the colors just replace all the colors
     color-primary: #536D79
     color-accent:#DFDFDF
       
-    color-progress :#2F2C06
-    color-progress_back :#766E04
+    color-progress :#536D79
+    color-progress_back :#49626B
     color-secondary-tab : #1D9898
     contact color : #8C8C8C
     background footer :  #1F1F1F
@@ -280,7 +280,7 @@ p {
 /*--//work--*/
 /*--education--*/
 .education .work-info h5 {
-    color: ##000;
+    color: #000;
 }
 /*--//education--*/
 /*--skills--*/
