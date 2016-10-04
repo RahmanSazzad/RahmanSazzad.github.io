@@ -115,7 +115,7 @@ var skillsLeft =[
 	},
 	{
 		txt:"Project Management",
-		percentage :"75"
+		percentage :"85"
 	}
 ];
 var skillsRight=[
@@ -138,10 +138,10 @@ var skillsRight=[
 ];
 var portfolioMenu =[
 	{
-		txt :"Catagory A"
+		txt :"IOS"
 	},
 	{
-		txt :"Catagory B"
+		txt :"Android"
 	},
 	{
 		txt :"Catagory C"
