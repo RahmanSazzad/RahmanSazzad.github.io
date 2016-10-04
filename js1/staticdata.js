@@ -45,7 +45,7 @@ var header =[
 
 var aboutME = [
 	{
-		txt:"dhft",
+		txt:"I am passionate about pushing boundaries to develop cutting edge design and innovative concepts. My focus is user centered design and interactive user experiences. I enjoy leveraging both my creative and technical skills to deliver world class UI/UX.",
 	},
 	{
 		txt:"about myself 2",
