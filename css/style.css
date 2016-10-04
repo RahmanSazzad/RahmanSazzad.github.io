@@ -7,7 +7,7 @@ to change the colors just replace all the colors
     color-progress_back :#49626B
     color-secondary-tab : #1D9898
     contact color : #8C8C8C
-    background footer :  #1F1F1F
+    background footer :  #9B9B9B
 */
 body{
 	margin:0;
@@ -619,7 +619,7 @@ h2.resp-accordion {
 .footer {
     padding: 2em 0;
     text-align: center;
-    background: #1F1F1F;
+    background: #9B9B9B;
 }
 .footer p {
     color: #fff;
