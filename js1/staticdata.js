@@ -54,19 +54,16 @@ var aboutME = [
 ];
 var aboutAwards = [
 	{
-		txt:"Award 1",
+		txt:"Candy Key. ios 2016",
 	},
 	{
-		txt:"Award 2",
+		txt:"Live Wallpaper. ios 2016",
 	},
 	{
-		txt:"Award 3",
+		txt:"CricScore. Android 2015",
 	},
 	{
-		txt:"Award 4",
-	},
-	{
-		txt:"Award 5",
+		txt:"Lux Channel i Super Star 2015",
 	}
 	
 ];
