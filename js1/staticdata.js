@@ -71,13 +71,13 @@ var aboutAwards = [
 var workExperience =[
 	{
 		company:"Zert Interactive",
-		details:"I can write a short description here",
+		details:"Zert Interactive is a modern agency committed to creating beautiful, user-centric, responsive websites and mobile applications for the multi-device web. We are passionate about the web and its future in particular, how responsive design can help businesses grow sustainably online.",
 		position:"Sr. Graphic Designer",
 		time :"June 2015-October 2016"
 	},
 	{
 		company:"Channel i",
-		details:"I can write a short description here",
+		details:"Channel I is a privately owned television network in Bangladesh. It is owned by the Impress Group, among the largest conglomerates in Bangladesh with interests in textiles, pharmaceuticals and media.",
 		position:"Assistant Graphic Designer",
 		time :"April 2014-March 2015"
 	},
