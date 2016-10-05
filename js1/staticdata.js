@@ -192,8 +192,8 @@ var portfolios = [
 			name:"3D Land",
 			creator:" creator",
 			desc:"a short description",
-			link:"images/icon3.jpg",
-			imgSrc : "images/icon3.jpg",
+			link:"images/icon9.jpg",
+			imgSrc : "images/icon9.jpg",
 			type : "Catagory A",
 			btntxt : "Visit Account"
 		},
