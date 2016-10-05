@@ -154,14 +154,14 @@ ul.nav.navbar li a:hover,ul.nav.navbar li a.active,ul.nav.navbar li a:focus{
 h3.title {
     font-size: 4em;
     text-align: center;
-    color: #536D79;
+    color: #FC1D1D;
     border-bottom: 4px double rgba(247, 197, 106, 0.35);
     padding-bottom: 0.2em;
 	margin-bottom: 1em;
 }
 p {
     font-size: 1em;
-    color: #999;
+    color: #FC1D1D;
     line-height: 1.8em;
 }
 .about-right {
