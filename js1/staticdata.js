@@ -246,7 +246,7 @@ var portfolios = [
 			name:"FITC",
 			creator:"Sazzad",
 			desc:"",
-			link:"https://play.google.com/store/apps/details?id=com.deskbird.lv3dlandfree&hl=en",
+			link:"https://www.behance.net/gallery/41434407/FITC-branding-vol-1",
 			imgSrc : "images/icon9.jpg",
 			type : "Catagory A",
 			btntxt : "Visit Account"
@@ -255,16 +255,25 @@ var portfolios = [
 			name:"Lima Furniture",
 			creator:"Sazzad",
 			desc:"",
-			link:"https://play.google.com/store/apps/details?id=com.zertinteractive.hepatitis&hl=en",
+			link:"https://www.behance.net/gallery/33783596/LIMA-FURNITURE",
 			imgSrc : "images/icon3.jpg",
 			type : "Catagory A",
 			btntxt : "Visit Account"
 		},
 		{
-			name:"CricScore",
+			name:"Baby item Online",
 			creator:"Sazzad",
 			desc:"",
-			link:"https://play.google.com/store/apps/details?id=com.zertinteractive.cricscores&hl=en",
+			link:"https://www.behance.net/gallery/38769577/Babyitem-Online",
+			imgSrc : "images/icon5.jpg",
+			type : "Catagory A",
+			btntxt : "Visit Account"
+		},
+		{
+			name:"Leisure With Color",
+			creator:"Sazzad",
+			desc:"",
+			link:"https://www.behance.net/gallery/32239169/leisure-with-color",
 			imgSrc : "images/icon5.jpg",
 			type : "Catagory A",
 			btntxt : "Visit Account"
