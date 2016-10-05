@@ -261,14 +261,18 @@ var portfolios = [
 			btntxt : "Visit Account"
 		},
 		{
-			name:"Baby Item Online",
+			name:"CricScore",
 			creator:"Sazzad",
 			desc:"",
-			link:"https://play.google.com/store/apps/details?id=com.zertinteractive.wallpaper4k&hl=en",
-			imgSrc : "images/icon7.jpg",
+			link:"https://play.google.com/store/apps/details?id=com.zertinteractive.cricscores&hl=en",
+			imgSrc : "images/icon5.jpg",
 			type : "Catagory A",
 			btntxt : "Visit Account"
-		}	
+		}
+		
+		
+
+	]
 		
 		
 
