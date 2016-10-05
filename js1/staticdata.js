@@ -149,7 +149,7 @@ var portfolios = [
 	[
 		{
 			name:"Candy Key",
-			creator:" creator",
+			creator:"Sazzad",
 			desc:"a short description",
 			link:"https://itunes.apple.com/us/app/candy-key-make-custom-keyboards/id940338087?mt=8",
 			imgSrc : "images/icon1.jpg",
@@ -158,27 +158,36 @@ var portfolios = [
 		},
 		{
 			name:"Groovy Home",
-			creator:" creator",
+			creator:"Sazzad & Tonmoy",
 			desc:"a short description",
-			link:"http://google.com",
+			link:"https://itunes.apple.com/us/app/groovy-home-cool-themes-for/id1061545446?mt=8",
 			imgSrc : "images/icon2.jpg",
 			type : "Catagory A",
 			btntxt : "Visit Account"
 		},
 		{
-			name:"Groovy Lock",
-			creator:" creator",
+			name:"Fun Time Math",
+			creator:"Sazzad & Tonmoy",
 			desc:"a short description",
-			link:"http://google.com",
+			link:"https://itunes.apple.com/om/app/fun-time-math/id899500304?mt=8",
+			imgSrc : "images/icon8.jpg",
+			type : "Catagory A",
+			btntxt : "Visit Account"
+		},
+		{
+			name:"Groovy Lock",
+			creator:"Sazzad & Tonmoy",
+			desc:"a short description",
+			link:"https://itunes.apple.com/om/app/groovy-lock-new-lock-screen/id1017234244?mt=8",
 			imgSrc : "images/icon6.jpg",
 			type : "Catagory 7",
 			btntxt : "Visit Account"
 		},
 		{
 			name:"Live Wallpaper",
-			creator:" creator",
+			creator:"Sazzad",
 			desc:"a short description",
-			link:"images/icon4.jpg",
+			link:"https://itunes.apple.com/om/app/live-wallpapers-animated-themes/id907787966?mt=8",
 			imgSrc : "images/icon4.jpg",
 			type : "Catagory A",
 			btntxt : "Visit Account"
@@ -190,7 +199,7 @@ var portfolios = [
 		
 		{
 			name:"3D Land",
-			creator:" creator",
+			creator:"Sazzad",
 			desc:"a short description",
 			link:"https://play.google.com/store/apps/details?id=com.deskbird.lv3dlandfree&hl=en",
 			imgSrc : "images/icon9.jpg",
@@ -199,7 +208,7 @@ var portfolios = [
 		},
 		{
 			name:"Hepatatis",
-			creator:" creator",
+			creator:"Sazzad",
 			desc:"a short description",
 			link:"https://play.google.com/store/apps/details?id=com.zertinteractive.hepatitis&hl=en",
 			imgSrc : "images/icon3.jpg",
@@ -208,7 +217,7 @@ var portfolios = [
 		},
 		{
 			name:"4K Wallpaper",
-			creator:" creator",
+			creator:"Sazzad",
 			desc:"a short description",
 			link:"https://play.google.com/store/apps/details?id=com.zertinteractive.wallpaper4k&hl=en",
 			imgSrc : "images/icon7.jpg",
@@ -217,7 +226,7 @@ var portfolios = [
 		},
 		{
 			name:"CricScore",
-			creator:" creator",
+			creator:"Sazzad",
 			desc:"a short description",
 			link:"https://play.google.com/store/apps/details?id=com.zertinteractive.cricscores&hl=en",
 			imgSrc : "images/icon5.jpg",
