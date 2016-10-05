@@ -157,44 +157,6 @@ var portfolios = [
 			btntxt : "Visit Account"
 		},
 		{
-			name:"4k Wallpaper",
-			creator:" creator",
-			desc:"a short description",
-			link:"http://google.com",
-			imgSrc : "images/icon2.jpg",
-			type : "Catagory A",
-			btntxt : "Visit Account"
-		},
-		{
-			name:"3D Land",
-			creator:" creator",
-			desc:"a short description",
-			link:"images/icon3.jpg",
-			imgSrc : "images/icon3.jpg",
-			type : "Catagory A",
-			btntxt : "Visit Account"
-		},
-		{
-			name:"CricScore",
-			creator:" creator",
-			desc:"a short description",
-			link:"images/icon4.jpg",
-			imgSrc : "images/icon4.jpg",
-			type : "Catagory A",
-			btntxt : "Visit Account"
-		}
-	],
-	[
-		{
-			name:"Live Wallpaper",
-			creator:" creator",
-			desc:"a short description",
-			link:"images/icon5.jpg",
-			imgSrc : "images/icon5.jpg",
-			type : "Catagory A",
-			btntxt : "Visit Account"
-		},
-		{
 			name:"Groovy Home",
 			creator:" creator",
 			desc:"a short description",
@@ -212,6 +174,49 @@ var portfolios = [
 			type : "Catagory 7",
 			btntxt : "Visit Account"
 		},
+		{
+			name:"Live Wallpaper",
+			creator:" creator",
+			desc:"a short description",
+			link:"images/icon5.jpg",
+			imgSrc : "images/icon5.jpg",
+			type : "Catagory A",
+			btntxt : "Visit Account"
+		},
+		
+		
+	],
+	[
+		
+		{
+			name:"3D Land",
+			creator:" creator",
+			desc:"a short description",
+			link:"images/icon3.jpg",
+			imgSrc : "images/icon3.jpg",
+			type : "Catagory A",
+			btntxt : "Visit Account"
+		},
+		{
+			name:"Hepatatis",
+			creator:" creator",
+			desc:"a short description",
+			link:"images/icon3.jpg",
+			imgSrc : "images/icon3.jpg",
+			type : "Catagory A",
+			btntxt : "Visit Account"
+		},
+		{
+			name:"CricScore",
+			creator:" creator",
+			desc:"a short description",
+			link:"images/icon4.jpg",
+			imgSrc : "images/icon4.jpg",
+			type : "Catagory A",
+			btntxt : "Visit Account"
+		}
+		
+		
 
 	]
 	
