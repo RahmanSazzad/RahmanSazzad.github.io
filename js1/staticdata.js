@@ -142,10 +142,8 @@ var portfolioMenu =[
 	},
 	{
 		txt :"Android"
-	},
-	{
-		txt :"Catagory C"
 	}
+	
 ];
 var portfolios = [
 	[
@@ -153,7 +151,7 @@ var portfolios = [
 			name:"Candy Key",
 			creator:" creator",
 			desc:"a short description",
-			link:"images/icon1.jpg",
+			link:"https://itunes.apple.com/us/app/candy-key-make-custom-keyboards/id940338087?mt=8",
 			imgSrc : "images/icon1.jpg",
 			type : "Catagory A",
 			btntxt : "Visit Account"
@@ -215,25 +213,6 @@ var portfolios = [
 			btntxt : "Visit Account"
 		},
 
-	],
-	[
-		{
-			name:"FITC",
-			creator:" creator",
-			desc:"a short description",
-			link:"images/icon8.jpg",
-			imgSrc : "images/icon8.jpg",
-			type : "Catagory A",
-			btntxt : "Visit Account"
-		},
-		{
-			name:"Hepatatis B",
-			creator:" creator",
-			desc:"a short description",
-			link:"images/icon9.jpg",
-			imgSrc : "images/icon9.jpg",
-			type : "Catagory A",
-			btntxt : "Visit Account"
-		}
 	]
+	
 ];
