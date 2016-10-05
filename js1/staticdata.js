@@ -142,6 +142,9 @@ var portfolioMenu =[
 	},
 	{
 		txt :"Android"
+	},
+	{
+		txt :"Branding"
 	}
 	
 ];
@@ -233,6 +236,39 @@ var portfolios = [
 			type : "Catagory A",
 			btntxt : "Visit Account"
 		}
+		
+		
+
+	]
+	[
+		
+		{
+			name:"FITC",
+			creator:"Sazzad",
+			desc:"",
+			link:"https://play.google.com/store/apps/details?id=com.deskbird.lv3dlandfree&hl=en",
+			imgSrc : "images/icon9.jpg",
+			type : "Catagory A",
+			btntxt : "Visit Account"
+		},
+		{
+			name:"Lima Furniture",
+			creator:"Sazzad",
+			desc:"",
+			link:"https://play.google.com/store/apps/details?id=com.zertinteractive.hepatitis&hl=en",
+			imgSrc : "images/icon3.jpg",
+			type : "Catagory A",
+			btntxt : "Visit Account"
+		},
+		{
+			name:"Baby Item Online",
+			creator:"Sazzad",
+			desc:"",
+			link:"https://play.google.com/store/apps/details?id=com.zertinteractive.wallpaper4k&hl=en",
+			imgSrc : "images/icon7.jpg",
+			type : "Catagory A",
+			btntxt : "Visit Account"
+		}	
 		
 		
 
