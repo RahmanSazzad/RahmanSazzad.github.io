@@ -192,7 +192,7 @@ var portfolios = [
 			name:"3D Land",
 			creator:" creator",
 			desc:"a short description",
-			link:"images/icon9.jpg",
+			link:"https://play.google.com/store/apps/details?id=com.deskbird.lv3dlandfree&hl=en",
 			imgSrc : "images/icon9.jpg",
 			type : "Catagory A",
 			btntxt : "Visit Account"
@@ -201,8 +201,17 @@ var portfolios = [
 			name:"Hepatatis",
 			creator:" creator",
 			desc:"a short description",
-			link:"images/icon3.jpg",
+			link:"https://play.google.com/store/apps/details?id=com.zertinteractive.hepatitis&hl=en",
 			imgSrc : "images/icon3.jpg",
+			type : "Catagory A",
+			btntxt : "Visit Account"
+		},
+		{
+			name:"4K Wallpaper",
+			creator:" creator",
+			desc:"a short description",
+			link:"https://play.google.com/store/apps/details?id=com.zertinteractive.wallpaper4k&hl=en",
+			imgSrc : "images/icon7.jpg",
 			type : "Catagory A",
 			btntxt : "Visit Account"
 		},
@@ -210,7 +219,7 @@ var portfolios = [
 			name:"CricScore",
 			creator:" creator",
 			desc:"a short description",
-			link:"images/icon5.jpg",
+			link:"https://play.google.com/store/apps/details?id=com.zertinteractive.cricscores&hl=en",
 			imgSrc : "images/icon5.jpg",
 			type : "Catagory A",
 			btntxt : "Visit Account"
