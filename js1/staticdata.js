@@ -247,7 +247,7 @@ var portfolios = [
 			creator:"Sazzad",
 			desc:"",
 			link:"https://www.behance.net/gallery/41434407/FITC-branding-vol-1",
-			imgSrc : "images/icon9.jpg",
+			imgSrc : "images/icon10.jpg",
 			type : "Catagory A",
 			btntxt : "Visit Account"
 		},
@@ -256,7 +256,7 @@ var portfolios = [
 			creator:"Sazzad",
 			desc:"",
 			link:"https://www.behance.net/gallery/33783596/LIMA-FURNITURE",
-			imgSrc : "images/icon3.jpg",
+			imgSrc : "images/icon11.jpg",
 			type : "Catagory A",
 			btntxt : "Visit Account"
 		},
@@ -265,7 +265,7 @@ var portfolios = [
 			creator:"Sazzad",
 			desc:"",
 			link:"https://www.behance.net/gallery/38769577/Babyitem-Online",
-			imgSrc : "images/icon5.jpg",
+			imgSrc : "images/icon12.jpg",
 			type : "Catagory A",
 			btntxt : "Visit Account"
 		},
@@ -274,7 +274,7 @@ var portfolios = [
 			creator:"Sazzad",
 			desc:"",
 			link:"https://www.behance.net/gallery/32239169/leisure-with-color",
-			imgSrc : "images/icon5.jpg",
+			imgSrc : "images/icon13.jpg",
 			type : "Catagory A",
 			btntxt : "Visit Account"
 		}
