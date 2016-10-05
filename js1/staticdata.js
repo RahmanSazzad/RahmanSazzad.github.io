@@ -179,7 +179,7 @@ var portfolios = [
 			creator:" creator",
 			desc:"a short description",
 			link:"images/icon4.jpg",
-			imgSrc : "images/icon5.jpg",
+			imgSrc : "images/icon4.jpg",
 			type : "Catagory A",
 			btntxt : "Visit Account"
 		},
@@ -193,7 +193,7 @@ var portfolios = [
 			creator:" creator",
 			desc:"a short description",
 			link:"images/icon3.jpg",
-			imgSrc : "images/icon9.jpg",
+			imgSrc : "images/icon3.jpg",
 			type : "Catagory A",
 			btntxt : "Visit Account"
 		},
@@ -211,7 +211,7 @@ var portfolios = [
 			creator:" creator",
 			desc:"a short description",
 			link:"images/icon5.jpg",
-			imgSrc : "images/icon4.jpg",
+			imgSrc : "images/icon5.jpg",
 			type : "Catagory A",
 			btntxt : "Visit Account"
 		}
