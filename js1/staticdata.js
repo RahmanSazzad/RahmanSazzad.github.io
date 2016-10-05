@@ -6,8 +6,8 @@ var myself ={
 	email:"sazzadrahman@hotmail.com"
 }
 var starter ={
-	init :"hi",
-	intro:"I'm "+myself.name,
+	init :"",
+	intro:" "+myself.name,
 	status:myself.profession,
 	address:myself.address,
 	phone:myself.phone,
