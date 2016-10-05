@@ -239,7 +239,7 @@ var portfolios = [
 		
 		
 
-	]
+	],
 	[
 		
 		{
