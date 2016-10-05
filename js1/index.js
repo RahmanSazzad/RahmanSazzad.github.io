@@ -5,7 +5,6 @@ function init() {
 	$('#education').load("html/education.html"); 
 	$('#skills').load("html/skills.html"); 
 	$('#portfolio').load("html/portfolio.html");
-	$('#contact').load("html/contact.html"); 
 	$('#footer').load("html/footer.html"); 
 
   document.title = myself.name;
